@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Baraa Fawaz</h1>
-<img align="center" width="100%" height="250" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/278f3487434779.5db844f590837.gif">
+<img align="center" width="100%" height="250" alt="coding" src="https://media.tenor.com/WpgSYAYBpLkAAAAC/hacker.gif">
 <h3 align="center">A passionate Computer Science student</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baraa-fawaz&label=Profile%20views&color=0e75b6&style=flat" alt="baraa-fawaz" /> </p>
