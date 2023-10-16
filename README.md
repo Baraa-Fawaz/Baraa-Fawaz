@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baraa-fawaz&label=Profile%20views&color=0e75b6&style=flat" alt="baraa-fawaz" /> </p>
 
 
-- 🌱 I’m currently learning **python language**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **baraafawaz94@gmail.com**
 
